@@ -5,5 +5,6 @@ public class Test {
         int randomNumber = (int)(Math.random() * 22);
 
         System.out.println(randomNumber);
+        System.out.println("Test");
     }
 }
