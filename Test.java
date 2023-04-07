@@ -7,5 +7,6 @@ public class Test {
         System.out.println(randomNumber);
         System.out.println("Test");
         System.out.println("Test1");
+        System.out.println("linux");
     }
 }
